@@ -1,0 +1,15 @@
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\task51.csproj.AssemblyReference.cache
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\task51.GeneratedMSBuildEditorConfig.editorconfig
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\task51.AssemblyInfoInputs.cache
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\task51.AssemblyInfo.cs
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\task51.csproj.CoreCompileInputs.cache
+F:\courseC_sh\practicC_sh7\task51\bin\Debug\net6.0\task51.exe
+F:\courseC_sh\practicC_sh7\task51\bin\Debug\net6.0\task51.deps.json
+F:\courseC_sh\practicC_sh7\task51\bin\Debug\net6.0\task51.runtimeconfig.json
+F:\courseC_sh\practicC_sh7\task51\bin\Debug\net6.0\task51.dll
+F:\courseC_sh\practicC_sh7\task51\bin\Debug\net6.0\task51.pdb
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\task51.dll
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\refint\task51.dll
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\task51.pdb
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\task51.genruntimeconfig.cache
+F:\courseC_sh\practicC_sh7\task51\obj\Debug\net6.0\ref\task51.dll
