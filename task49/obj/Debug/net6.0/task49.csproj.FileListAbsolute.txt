@@ -1,0 +1,15 @@
+F:\courseC_sh\practicC_sh7\task49\bin\Debug\net6.0\task49.exe
+F:\courseC_sh\practicC_sh7\task49\bin\Debug\net6.0\task49.deps.json
+F:\courseC_sh\practicC_sh7\task49\bin\Debug\net6.0\task49.runtimeconfig.json
+F:\courseC_sh\practicC_sh7\task49\bin\Debug\net6.0\task49.dll
+F:\courseC_sh\practicC_sh7\task49\bin\Debug\net6.0\task49.pdb
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\task49.csproj.AssemblyReference.cache
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\task49.GeneratedMSBuildEditorConfig.editorconfig
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\task49.AssemblyInfoInputs.cache
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\task49.AssemblyInfo.cs
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\task49.csproj.CoreCompileInputs.cache
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\task49.dll
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\refint\task49.dll
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\task49.pdb
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\task49.genruntimeconfig.cache
+F:\courseC_sh\practicC_sh7\task49\obj\Debug\net6.0\ref\task49.dll
